@@ -1,0 +1,124 @@
+.escaparate {
+    position: 4;
+}
+
+.fondo {
+    
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+}
+
+
+.vacio1 {
+    width: 100%;
+    height: 13em;
+    position: relative;
+    
+}
+
+.estante1{
+   display: flex;
+   flex-direction: row;
+   position: relative;
+}
+
+
+.hueco1 {
+    width: 20em;
+    height: 10em;
+}
+.cerezas {
+    position: relative;
+    height: 11em;
+    width: 11em;
+    
+}
+
+.coco {
+    position: relative;
+    height: 11em;
+    width: 11em;
+}
+
+.vacio2 {
+    width: 100%;
+    height: 6em;
+    position: relative;
+}
+.estante2{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+ }
+
+ .hueco2{
+     width: 20em;
+     height: 10em;
+ }
+
+.manzana {
+    position: relative;
+    height: 11em;
+    width: 11em;
+}
+
+.melocoton {
+    position: relative;
+    height: 11em;
+    width: 11em;
+}
+
+.vacio3 {
+    width: 100%;
+    height: 6.5em;
+    position: relative;
+}
+
+.estante3{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+ }
+
+.hueco3 {
+    width: 20em;
+    height: 10em;
+}
+
+.naranja {
+    position: relative;
+    height: 11em;
+    width: 11em;
+}
+
+.pera {
+    position: relative;
+    height: 11em;
+    width: 11em;
+}
+
+.hueco4 {
+    width: 15em;
+    height: 2em;
+    position: relative;
+    z-index: 3;
+    background-color: brown;
+}
+
+.cesta {
+    position: relative;
+    height: 12.5em;
+    width: 12.5em;
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+}
+
+.cestacompra {
+    background-image: url(../css/img/cesta.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+}
